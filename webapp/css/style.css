@@ -1,0 +1,18 @@
+/* sortable list */
+.ui-sortable-helper {
+	box-shadow: 0 2px 10px rgba(0,0,0,0.45);
+    background-color: rgba(66,124,172,0.8) !important;
+    border-color: #427cac;
+    color: white !important;
+    /*border-radius: 0.5rem;*/
+}
+
+.ui-sortable-helper .sapMSLITitle,
+.ui-sortable-helper .sapUiIcon {
+	color: white;
+}
+
+.ui-sortable-helper .sapMSLIDescription,
+.ui-sortable-helper .sapMSLIInfo {
+	color: #d0d0d0;
+}
