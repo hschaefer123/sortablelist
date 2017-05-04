@@ -8,11 +8,7 @@
 
 ![Screenshot](SortableList.png)
 
-The demo is a UI5 wrapper for the ScrollReveal project
-[SortableList Git Repository](https://github.com/jlmakes/sortablelist)
-
-The code uses most up-to-date browser features and is highly experimental (not thought to be used for productive apps).
-It should only demonstrate some browser features and be a nice giveaway for XMas.
+![Screenshot](SortableList.gif)
 
 ### Highlights
 
