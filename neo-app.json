@@ -1,5 +1,6 @@
 {
   "welcomeFile": "/webapp/index.html",
+  "authenticationMethod": "none",
   "routes": [
     {
       "path": "/resources",
@@ -22,6 +23,15 @@
       "description": "SAPUI5 Test Resources"
     }
   ],
+  "securityConstraints": [
+    {
+      "permission": "AccessApplicationDescriptor",
+      "description": "Access application descriptor",
+      "protectedPaths": [
+        "/neo-app.json"
+      ]
+    }
+  ],  
   "sendWelcomeFileRedirect": true,
   "cacheControl": [
     {
