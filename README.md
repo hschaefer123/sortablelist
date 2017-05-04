@@ -6,8 +6,6 @@
 
 ### [Online Demo (SAP HCP)](https://sortablelist-p1940953245trial.dispatcher.hanatrial.ondemand.com/index.html)
 
-![Screenshot](SortableList.png)
-
 ![Screenshot](SortableList.gif)
 
 ### Highlights
